@@ -1,16 +1,13 @@
-## Hi there 👋
+### cara sincurimoi
 
-<!--
-**CaraSincurimoi/CaraSincurimoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I cannot see
 
-Here are some ideas to get you started:
+The modern ML stack, top to bottom:
+model → training → distributed → inference → kernels → silicon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| component | result | hardware |
+|---|---|---|
+| *the hunger has only just begun* | | |
+
+→ [what do you see](https://github.com/CaraSincurimoi/what-do-you-see)
